@@ -1,0 +1,18 @@
+main{
+    background-color: antiquewhite;
+    margin: auto;
+    text-align: center;
+    max-width: 30%;
+}
+
+article{
+    padding: 10px;
+}
+
+#gombok{
+    display: grid;
+    grid-template-columns: 50px 50px 50px 50px; 
+    grid-template-rows: 50px 50px 50px 50px; 
+    justify-content: center;
+ 
+}
